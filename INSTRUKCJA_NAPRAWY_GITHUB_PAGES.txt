@@ -1,0 +1,23 @@
+MINEVORA 4.1 — NAPRAWA STRONY GITHUB PAGES (21.10.2026)
+
+1. Otwórz https://github.com/cubeverse12/minevora-website2
+2. Wypakuj TEN ZIP na komputerze (nie przesyłaj pliku ZIP jako strony).
+3. Na GitHub wgraj wszystkie pliki i folder assets do GŁÓWNEGO katalogu repozytorium.
+4. Jeśli GitHub pyta o istniejące pliki: zaktualizuj/zmień je na nowe.
+5. Zatwierdź zmiany (Commit changes). Upewnij się, że w repo jest index.html,
+   mapy.html, tryby.html, ranking.html, together.html, poradnik.html.
+6. Settings -> Pages -> Deploy from a branch -> main -> /(root) -> Save.
+7. Strona: https://cubeverse12.github.io/minevora-website2/
+8. Sprawdź: https://cubeverse12.github.io/minevora-website2/mapy.html
+9. W Chrome naciśnij Ctrl+Shift+R (odśwież bez cache).
+
+CO NAPRAWIONO:
+- CSS i JavaScript są teraz wbudowane w HTML, więc brak network.css w repo nie
+  usunie całego wyglądu i nie zepsuje przycisków.
+- Obrazy dla głównych widoków są zapisane w HTML, nie znikną przy brakującym assets.
+- Na stronie głównej można kliknąć Mapy 3D i przejść do galerii 9 map bez otwierania
+  innej podstrony; można powiększać mapy i przełączać rzut z góry.
+- Zakładki pełnych podstron nadal działają po wgraniu całej paczki.
+
+UWAGA: Strona GitHub Pages jest statyczna; nie uruchamia serwera Minecraft ani
+nie podaje prawdziwej liczby graczy. Do działania launchera pobierz ZIP.

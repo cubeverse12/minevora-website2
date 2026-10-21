@@ -1,0 +1,1 @@
+Brak brakujących plików i lokalnych kotwic w statycznej kontroli.
