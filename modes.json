@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bedwars",
+    "name": "BedWars",
+    "subtitle": "Emerald Isles",
+    "desc": "Broń łóżka, zbieraj surowce i walcz o ostatnią drużynę na wyspach.",
+    "cat": "minigra",
+    "tag": "DRUŻYNOWE",
+    "icon": "🛏️",
+    "plan": "01_BEDWARS_Emerald_Isles.png"
+  },
+  {
+    "id": "skywars",
+    "name": "SkyWars",
+    "subtitle": "Cloudspire",
+    "desc": "Skrzynie z wyposażeniem, latające wyspy i szybka walka o zwycięstwo.",
+    "cat": "minigra",
+    "tag": "SURVIVAL PVP",
+    "icon": "☁️",
+    "plan": "02_SKYWARS_Cloudspire.png"
+  },
+  {
+    "id": "tntrun",
+    "name": "TNT Run",
+    "subtitle": "Double Drop",
+    "desc": "Biegnij po znikającej podłodze i utrzymaj się jak najdłużej.",
+    "cat": "minigra",
+    "tag": "ZRĘCZNOŚĆ",
+    "icon": "💥",
+    "plan": "03_TNTRUN_Double_Drop.png"
+  },
+  {
+    "id": "parkour",
+    "name": "Parkour",
+    "subtitle": "Skytrail",
+    "desc": "Pokonuj trasę nad przepaścią i poprawiaj swój rekord czasu.",
+    "cat": "minigra",
+    "tag": "CZAS",
+    "icon": "🏃",
+    "plan": "04_PARKOUR_Skytrail.png"
+  },
+  {
+    "id": "buildbattle",
+    "name": "Build Battle",
+    "subtitle": "Studio",
+    "desc": "Twórz budowle na temat, oceniaj pomysły i zdobywaj punkty.",
+    "cat": "minigra",
+    "tag": "KREATYWNOŚĆ",
+    "icon": "🏗️",
+    "plan": "05_BUILD_BATTLE_Studio.png"
+  },
+  {
+    "id": "spleef",
+    "name": "Spleef",
+    "subtitle": "Frostfall",
+    "desc": "Podkopuj śnieg pod rywalami, nie daj się zrzucić z lodowej areny.",
+    "cat": "minigra",
+    "tag": "ELIMINACJE",
+    "icon": "❄️",
+    "plan": "06_SPLEEF_Frostfall.png"
+  },
+  {
+    "id": "duels",
+    "name": "Duels",
+    "subtitle": "Colosseum",
+    "desc": "Pojedynki 1 na 1 i wybór klasycznego zestawu ekwipunku.",
+    "cat": "pvp",
+    "tag": "1 VS 1",
+    "icon": "⚔️",
+    "plan": "07_DUELS_Colosseum.png"
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal PvP 1v1",
+    "subtitle": "Obsidian Duel",
+    "desc": "Kryształy Endu, obsydian, totemy i wyzwania jeden na jednego.",
+    "cat": "pvp",
+    "tag": "CRYSTAL",
+    "icon": "💎",
+    "plan": "08_CRYSTAL_PVP_Obsidian_Duel.png"
+  },
+  {
+    "id": "crystalffa",
+    "name": "Crystal PvP FFA",
+    "subtitle": "Nether Nexus",
+    "desc": "Wieloosobowa walka na kryształowej arenie — każdy na każdego.",
+    "cat": "pvp",
+    "tag": "FREE FOR ALL",
+    "icon": "🔥",
+    "plan": "09_CRYSTAL_PVP_FFA_Nether_Nexus.png"
+  }
+]
